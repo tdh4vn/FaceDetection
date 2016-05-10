@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Face Detection</string>
+    <string name="lbp_cascades">LBP Cascades</string>
+    <string name="haar_cascades">Haar Cascades</string>
+</resources>
